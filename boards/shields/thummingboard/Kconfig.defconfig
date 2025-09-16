@@ -1,0 +1,9 @@
+# Copyright (c) 2025 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+if SHIELD_THUMMINGBOARD
+
+config ZMK_KEYBOARD_NAME
+    default "thummingboard"
+
+endif

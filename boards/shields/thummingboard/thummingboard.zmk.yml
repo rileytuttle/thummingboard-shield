@@ -1,0 +1,9 @@
+file_format: "1"
+id: thummingboard
+name: Thummingboard 5x12
+type: shield
+url: https://github.com/rileytuttle/thummingboard 
+requires: [nice_nano_v2]
+features:
+  - keys
+  - bluetooth
